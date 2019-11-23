@@ -1,6 +1,5 @@
 XOT (X.25 over TCP) pad emulator (by Nail)
 
-Reference of RFC1613 - https://tools.ietf.org/html/rfc1613
 
 v1.0   23/11/2019
 
