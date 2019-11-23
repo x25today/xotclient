@@ -32,5 +32,9 @@ TODO
 	Why on a certain nua as I press something the screen clears?
 
 	
+MISC
+
+X25 over TCP protocol RFC https://tools.ietf.org/html/rfc1613
+
 
 
